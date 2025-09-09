@@ -1,0 +1,8 @@
+*{
+    text-align: center;
+    padding: 10px;
+}
+body {
+    background: linear-gradient(to right, dodgerblue, lightblue);
+    color: aliceblue;
+}
